@@ -1,0 +1,164 @@
+
+body{
+	background-color: #9BBFD2;
+	font-family: Bahnschrift;
+	font-size: 20px;
+	font-weight: 900;
+	color: #1A4C67;
+}
+
+
+#container{
+	clear:both;
+	width: 1000px;
+	margin-left: auto; margin-right:auto;
+	background-color: #A8C6D6;
+	border-radius: 6px;	
+}	
+	/*#logo{
+
+		width: 100px;
+		height:100px;
+		margin-left: auto; margin-right:auto;	
+		color: gray;
+	}*/
+	
+	#TopText{
+		float: left;
+		width: 890px;
+	}
+	
+	#logo{
+		
+		
+		margin-left: auto; margin-right:auto;	
+		color: gray;
+	}
+	
+#navigation{
+	border-radius: 6px 0px 0px 6px;
+	float: left;
+	width: 130px;
+	height: 500px;
+	/*min-height: 50px;*/
+	background-color: #7CC6FF;
+	
+	padding: 10px; 
+	font-weight: 500;
+}
+	
+#content{
+	border-radius: 0px 6px 6px 0px;
+	float: left;
+	width:830px;
+	height: 500px;
+	padding: 10px;
+	text-align: center;
+	padding: 10px;
+	background-color: #D2FCCF;
+}
+	
+
+#BottomPanel{
+		position: fixed;
+		width: 526px;
+		height: 70px;
+		background-color: #2C4F43;
+		text-align: center;
+		padding:  10px 10px;
+		margin-left: auto; margin-right:auto;
+		margin: 10px 0px;
+		border-radius: 6px;
+		
+	}
+
+#LoggingElem{
+	width: 800px;
+	height: 500px;
+	margin-left: auto; margin-right:auto;
+	padding:  10px 10px;
+}
+
+#GoBack{
+	padding: 40px 40px;
+}
+
+#logout{
+	float: left;
+	width: 100px;
+	height: 50px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-top: 10px;
+	padding-right: 10px;
+	
+}
+
+#jakies{
+	clear: both;
+}
+h1{ /*duzy napis*/
+	font-family: Bahnschrift;
+	font-size: 35px;
+	font-weight: 1000;
+}
+h2{/*maly napis*/
+	font-family: Bahnschrift;
+	font-size: 22px;
+	font-weight: 500;
+}
+
+h3{/*bardzo maly napis*/
+	font-family: Bahnschrift;
+	font-size: 15px;
+	font-weight: 500;
+}
+
+.button {
+		width: 4em; height: 2em;
+		border: none;
+		color: white;
+		padding: 20px 320px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 70px;
+		font-weight: 700;
+		margin: 5px 0px;
+		color: #116530;
+		border-radius: 4px;
+		
+		margin: 0px 0px;
+		cursor: pointer;
+		  
+		font-family: Bahnschrift;
+		font-size: 20px;
+		
+		
+	}
+
+
+	
+.buttonTicket {background-color: #7CC6FF; }
+.buttonMap {background-color: #18A558;}
+.buttonAdmin {background-color: #DF362D;}
+.buttonAdmin :hover {
+	background-color: #d86a64;
+}
+
+a:link{
+	color:#116530;
+}
+a:visited{
+	color:#116530;	
+}
+
+a:hover{
+	color:#AD0101;
+}
+
+label{
+	margin-bottom: 80px;
+}
+
+	

@@ -1,0 +1,71 @@
+
+body{
+	/*background-color: #52D681;*/
+	background-image: linear-gradient(to bottom right, rgb(31, 146, 31), rgb(60, 106, 235));
+	
+	font-family: Bahnschrift;
+	font-size: 20px;
+	font-weight: 900;
+	color: #116530;
+}
+
+
+#container{
+	width: 1000px;
+	margin-left: auto; margin-right:auto;
+	
+	/*#logo{
+
+		width: 100px;
+		height:100px;
+		margin-left: auto; margin-right:auto;	
+		color: gray;
+	}*/
+	
+	
+}
+#BottomPanel{
+		position: fixed;
+		padding: 10px 10px 0px 10px;
+		width: 526px;
+		height: 70px;
+		background-color: #2C4F43;
+		text-align: center;
+		padding: 20px;
+		margin-left: auto; margin-right:auto;	
+	}
+
+
+
+h1{
+	font-family: Bahnschrift;
+	font-size: 35px;
+	font-weight: 1000;
+}
+
+.button {
+		width: 400px; height: 50px;
+		border: none;
+		color: white;
+		padding: 20px 320px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 70px;
+		font-weight: 700;
+		margin: 5px 0px;
+		color: #116530;
+		border-radius: 2px;
+		
+		margin: 0px 0px;
+		cursor: pointer;
+		  
+		font-family: Bahnschrift;
+		font-size: 20px;
+		
+	}
+	
+	.buttonTicket {border-radius: 4px; background-color: #7CC6FF; }
+	.buttonMap {border-radius: 4px; background-color: #18A558;}
+	.buttonAdmin {border-radius: 4px; background-color: #DF362D;}
+	

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.ino": "dart",
+			"zad2(od chlopw).C": "cpp"
+		}
+	}
+}
